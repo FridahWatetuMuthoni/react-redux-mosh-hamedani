@@ -1,0 +1,7 @@
+const ACTION_TYPES = {
+    ADD_BUG:'ADD_BUG',
+    RESOLVE_BUG:'RESOLVE_BUG',
+    DELETE_BUG:'DELETE_BUG'
+}
+
+export default ACTION_TYPES
